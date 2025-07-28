@@ -8,3 +8,4 @@ asntech/shallowhrd:v1.13
 ospirobroad/blat
 n8nio/n8n
 euformatics/fgbio:v1.3
+humanlongevity/hla:latest
