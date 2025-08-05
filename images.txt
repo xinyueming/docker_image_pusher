@@ -9,3 +9,4 @@ ospirobroad/blat
 n8nio/n8n
 euformatics/fgbio:v1.3
 humanlongevity/hla:latest
+asntech/facets-suite:v2.0.8_v0.6.1
